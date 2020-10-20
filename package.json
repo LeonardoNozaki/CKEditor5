@@ -1,6 +1,6 @@
 {
-  "name": "CKEditor5-VM",
-  "version": "1.0.0",
+  "name": "editor-vm-ckeditor5",
+  "version": "2.0.0",
   "description": "",
   "main": "build/ckeditor.js",
   "scripts": {
